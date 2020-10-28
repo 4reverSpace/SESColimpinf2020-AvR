@@ -1,4 +1,4 @@
-#include <math.h>
+#include <math.h>  // но задача пока не решена
 int main()
 {
     int x1,y1,x2,y2,x3,y3;
