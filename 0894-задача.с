@@ -1,0 +1,8 @@
+#include <math.h>
+#include <stdio.h>
+int main()
+{
+    double s,r1;
+    scanf("%lf %lf",&s,&r1);
+	printf("%.3f",sqrt(r1*r1-s/3.1415926535));
+}
